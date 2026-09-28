@@ -1,8 +1,8 @@
 :root {
-    --color-primary: green;
+    --color-primary: rgb(0, 2, 128);
     --bg-dark: #141414;
     --text-color: #fff;
-    --btn-color: #95ff00;
+    --btn-color: #2600ff;
     --header-bg: rgba(0, 0, 0, 0.8);
     --linear-bg: linear-gradient(to right, aqua, purple);
 }
@@ -13,7 +13,7 @@
 }
 
 .titulo {
-    background-image: linear-gradient(to right, #95ff00, purple, #95ff00);
+    background-image: linear-gradient(to right, #00fff2, rgb(0, 77, 128), #0084ff);
     text-transform: uppercase;
     margin-bottom: 20px;
     font-weight: 700;
