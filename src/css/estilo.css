@@ -32,6 +32,6 @@
 @keyframes acender {
     to {
         color: var(--text-color);
-        text-shadow: 0 0 10px #32f323, 0 0 20px #a8dfe1;
+        text-shadow: 0 0 10px #2384f3, 0 0 20px #a8dfe1;
     }
 }
